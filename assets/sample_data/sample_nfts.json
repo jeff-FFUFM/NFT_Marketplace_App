@@ -1,0 +1,118 @@
+
+{
+    "nfts": [
+        {
+            "id": "nft1.jpg",
+            "dishImage": "assets/nft/nft1.jpg",
+            "title": "Couples in a Starry Night",
+            "price": "0.52 ",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Meditarrian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "nft2.png",
+            "dishImage": "assets/nft/nft2.png",
+            "title": "Bunny",
+            "price": "0.83 ",
+            "source": "https://pixabay.com/photos/cupcakes-dessert-frosting-food-690040/",
+            "information": [
+                "Course: Dessert",
+                "Price: Somewhat cheap",
+                "Cuisine: American",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "nft3.png",
+            "dishImage": "assets/nft/nft3.png",
+            "title": "Ghozali_Ghozalu #707",
+            "price": "0.05 ",
+            "source": "https://pixabay.com/photos/pancakes-maple-syrup-sweet-food-2291908/",
+            "information": [
+                "Course: Breakfast",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "nft4.png",
+            "dishImage": "assets/nft/nft4.png",
+            "title": "Nature Photography",
+            "price": "0.27 ",
+            "source": "https://pixabay.com/photos/spaghetti-drunken-line-food-pasta-960978/",
+            "information": [
+                "Course: Main Course",
+                "Price: Expensive",
+                "Cuisine: Italian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "nft5.png",
+            "dishImage": "assets/nft/nft5.png",
+            "title": "Jack the Robber",
+            "price": "1.22 ",
+            "source": "https://pixabay.com/photos/fried-rice-thai-food-thai-cuisine-3023040/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Thai",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+            
+        },
+        {
+            "id": "nft6.png",
+            "dishImage": "assets/nft/nft6.png",
+            "title": "Timeless Character Mina",
+            "price": "1.95 ",
+            "source": "https://pixabay.com/photos/green-curry-thai-food-3604721/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "nft7.png",
+            "dishImage": "assets/nft/nft7.png",
+            "title": "Emilia",
+            "price": "13.70 ",
+            "source": "https://pixabay.com/photos/soup-pho-soup-vietnam-vietnamese-5250765/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Vietnamese",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "nft8.png",
+            "dishImage": "assets/nft/nft8.png",
+            "title": "White Screen Supremacy",
+            "price": "20.00 ",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        }
+    ]
+}

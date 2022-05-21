@@ -1,0 +1,347 @@
+{
+    "nftExpansionArt3": [
+        {
+            "id": "1",
+            "cardType": "RandomCard",
+            "title": "Random1",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/random/random1.jpg"
+
+        },
+        {
+            "id": "2",
+            "cardType": "RandomCard",
+            "title": "Random2",
+            "subtitle": "Smoothies",
+            "backgroundImage": "images/random/random2.jpg"
+        },
+        {
+            "id": "3",
+            "cardType": "RandomCard",
+            "title": "Random3",
+            "subtitle": "Healthy Foods",
+            "backgroundImage": "images/random/random3.jpg"
+
+        },
+        {
+            "id": "4",
+            "cardType": "RandomCard",
+            "title": "Random4",
+            "subtitle": "",
+            "backgroundImage": "images/random/random4.jpg"
+        },
+        {
+            "id": "5",
+            "cardType": "RandomCard",
+            "title": "Random5",
+            "subtitle": "",
+            "backgroundImage": "images/random/random5.jpg"
+        },
+        {
+            "id": "6",
+            "cardType": "RandomCard",
+            "title": "Random6",
+            "subtitle": "",
+            "backgroundImage": "images/random/random6.jpg"
+        },
+        {
+            "id": "7",
+            "cardType": "RandomCard",
+            "title": "Random7",
+            "subtitle": "",
+            "backgroundImage": "images/random/random7.jpg"
+        },
+        {
+            "id": "8",
+            "cardType": "RandomCard",
+            "title": "Random8",
+            "subtitle": "",
+            "backgroundImage": "images/random/random8.jpg"
+        },
+        {
+            "id": "9",
+            "cardType": "RandomCard",
+            "title": "Random9",
+            "subtitle": "",
+            "backgroundImage": "images/random/random9.jpg"
+        },
+        {
+            "id": "10",
+            "cardType": "RandomCard",
+            "title": "Random10",
+            "subtitle": "",
+            "backgroundImage": "images/random/random10.jpg"
+        },
+        {
+            "id": "11",
+            "cardType": "RandomCard",
+            "title": "Random11",
+            "subtitle": "",
+            "backgroundImage": "images/random/random11.gif"
+        },
+        {
+            "id": "12",
+            "cardType": "RandomCard",
+            "title": "Random12",
+            "subtitle": "",
+            "backgroundImage": "images/random/random12.gif"
+        },
+        {
+            "id": "13",
+            "cardType": "RandomCard",
+            "title": "Random13",
+            "subtitle": "",
+            "backgroundImage": "images/random/random13.gif"
+        },
+        {
+            "id": "14",
+            "cardType": "RandomCard",
+            "title": "Random14",
+            "subtitle": "",
+            "backgroundImage": "images/random/random14.gif"
+        }
+    ], 
+    "nftExpansionArt2": [
+        {
+            "id": "1",
+            "cardType": "Collectibles",
+            "title": "Clocks",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/clocks.jpg"
+
+        },
+        {
+            "id": "2",
+            "cardType": "Collectibles",
+            "title": "doll girl",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/doll_girl.jpg"
+
+        },
+        {
+            "id": "3",
+            "cardType": "Collectibles",
+            "title": "dolls",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/dolls.jpg"
+
+        },
+        {
+            "id": "4",
+            "cardType": "Collectibles",
+            "title": "dolls2",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/dolls2.jpg"
+
+        },
+        {
+            "id": "5",
+            "cardType": "Collectibles",
+            "title": "handmade soap",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/handmade_soap.jpg"
+
+        },
+        {
+            "id": "6",
+            "cardType": "Collectibles",
+            "title": "knife",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/knife.jpg"
+
+        },
+        {
+            "id": "7",
+            "cardType": "Collectibles",
+            "title": "mugs",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/mugs.jpg"
+
+        },
+        {
+            "id": "8",
+            "cardType": "Collectibles",
+            "title": "soap",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/Soap.jpg"
+
+        },
+        {
+            "id": "9",
+            "cardType": "Collectibles",
+            "title": "dolls2",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/vases.jpg"
+
+        },
+        {
+            "id": "10",
+            "cardType": "Collectibles",
+            "title": "dolls2",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "images/Collectibles/yugioh.jpg"
+
+        }
+    ],
+    "nftExpansionArt": [
+        {
+            "id": "1",
+            "cardType": "Art",
+            "title": "art1",
+            "subtitle": "",
+            "backgroundImage": "images/Art/art1.png"
+
+        },
+        {
+            "id": "2",
+            "cardType": "Art",
+            "title": "art2",
+            "subtitle": "",
+            "backgroundImage": "images/Art/art2.jpg"
+
+        },
+        {
+            "id": "3",
+            "cardType": "Art",
+            "title": "art3",
+            "subtitle": "",
+            "backgroundImage": "images/Art/art3.gif"
+
+        },
+        {
+            "id": "4",
+            "cardType": "Art",
+            "title": "beach",
+            "subtitle": "",
+            "backgroundImage": "images/Art/beach.jpg"
+
+        },
+        {
+            "id": "5",
+            "cardType": "Art",
+            "title": "cinnamon soap",
+            "subtitle": "",
+            "backgroundImage": "images/Art/cinnamon_soap.jpg"
+
+        },
+        {
+            "id": "6",
+            "cardType": "Art",
+            "title": "drawing",
+            "subtitle": "",
+            "backgroundImage": "images/Art/drawing.jpg"
+        },
+        {
+            "id": "7",
+            "cardType": "Art",
+            "title": "girl",
+            "subtitle": "",
+            "backgroundImage": "images/Art/girl.jpg"
+        },
+        {
+            "id": "8",
+            "cardType": "Art",
+            "title": "heaven",
+            "subtitle": "",
+            "backgroundImage": "images/Art/heaven.jpg"
+
+        },
+        {
+            "id": "9",
+            "cardType": "Art",
+            "title": "heaven2",
+            "subtitle": "",
+            "backgroundImage": "images/Art/heaven2.jpg"
+
+        },
+        {
+            "id": "10",
+            "cardType": "Art",
+            "title": "man",
+            "subtitle": "",
+            "backgroundImage": "images/Art/Man.jpg"
+
+        },
+        {
+            "id": "11",
+            "cardType": "Art",
+            "title": "man2",
+            "subtitle": "",
+            "backgroundImage": "images/Art/man2.jpg"
+
+        },
+        {
+            "id": "12",
+            "cardType": "Art",
+            "title": "Suzy",
+            "subtitle": "",
+            "backgroundImage": "images/Art/Suzy1.jpg"
+
+        }
+    ],
+    "nftExpansionArt4": [
+        {
+            "id": "1",
+            "cardType": "Photography",
+            "title": "Photography1",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog1.jpg"
+        },
+        {
+            "id": "2",
+            "cardType": "Photography",
+            "title": "Photography2",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog2.jpg"
+        },
+        {
+            "id": "3",
+            "cardType": "Photography",
+            "title": "Photography3",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog3.jpg"
+        },
+        {
+            "id": "4",
+            "cardType": "Photography",
+            "title": "Photography4",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog4.jpg"
+        },
+        {
+            "id": "5",
+            "cardType": "Photography",
+            "title": "Photography5",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog5.jpg"
+        },
+        {
+            "id": "6",
+            "cardType": "Photography",
+            "title": "Photography6",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog6.jpg"
+        },
+        {
+            "id": "7",
+            "cardType": "Photography",
+            "title": "Photography7",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog7.jpg"
+        },
+        {
+            "id": "8",
+            "cardType": "Photography",
+            "title": "Photography8",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog8.jpg"
+        },
+        {
+            "id": "9",
+            "cardType": "Photography",
+            "title": "Photography9",
+            "subtitle": "",
+            "backgroundImage": "images/Photography/photog9.jpg"
+        }
+    ]
+}
